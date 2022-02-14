@@ -1,6 +1,6 @@
 # CUBE-SMASH
 Game HTML
-# Games-Click 
+# Games-SMASH 
 - Games Click adalah sebuah game dimana pemain nya di haruskan membelah-
 Kotak yang bereterbangan di  game.
 
